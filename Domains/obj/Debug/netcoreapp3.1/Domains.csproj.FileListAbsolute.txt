@@ -1,0 +1,9 @@
+C:\Users\Gamer\source\repos\WebAPI\Domains\bin\Debug\netcoreapp3.1\Domains.deps.json
+C:\Users\Gamer\source\repos\WebAPI\Domains\bin\Debug\netcoreapp3.1\Domains.dll
+C:\Users\Gamer\source\repos\WebAPI\Domains\bin\Debug\netcoreapp3.1\Domains.pdb
+C:\Users\Gamer\source\repos\WebAPI\Domains\obj\Debug\netcoreapp3.1\Domains.csprojAssemblyReference.cache
+C:\Users\Gamer\source\repos\WebAPI\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfoInputs.cache
+C:\Users\Gamer\source\repos\WebAPI\Domains\obj\Debug\netcoreapp3.1\Domains.AssemblyInfo.cs
+C:\Users\Gamer\source\repos\WebAPI\Domains\obj\Debug\netcoreapp3.1\Domains.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\WebAPI\Domains\obj\Debug\netcoreapp3.1\Domains.dll
+C:\Users\Gamer\source\repos\WebAPI\Domains\obj\Debug\netcoreapp3.1\Domains.pdb
