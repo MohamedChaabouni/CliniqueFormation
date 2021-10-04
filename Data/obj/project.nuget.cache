@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1K323F+TIhP6fq2v+QktL0Me4XPh4699yVp31hU/m1yiYi+iEJIqpy+KQf8q6j7KzOqXq5NQCh2xceBrL4Oapg==",
+  "dgSpecHash": "uit700xA6BXxp0J9of2hfuJd7df7FFbRyo998WAIdqICTzVEk2aY4PfStp8TD+y2V4e0arrzNKl5Ph1obUuYlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gamer\\source\\repos\\WebAPI\\Data\\Data.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.19\\microsoft.entityframeworkcore.design.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.19\\microsoft.entityframeworkcore.relational.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.19\\microsoft.entityframeworkcore.sqlserver.3.1.19.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.19\\microsoft.entityframeworkcore.tools.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.19\\microsoft.extensions.caching.abstractions.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.19\\microsoft.extensions.caching.memory.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.19\\microsoft.extensions.configuration.3.1.19.nupkg.sha512",

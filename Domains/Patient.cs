@@ -17,8 +17,8 @@ namespace Domains
         public int Age { get; set; }
         public string Telephone { get; set; }
         public Sexe Sexe { get; set; }
-        [ForeignKey(nameof(Dossier))]
         public int? DossierId { get; set; }
+        [ForeignKey(nameof(DossierId))]
         public virtual Dossier Dossier { get; set; }
         public virtual ICollection<Hospitalisation> Hospitalisations { get; set; }
         public virtual ICollection<SecretairePatient> SecretairePatients { get; set; }

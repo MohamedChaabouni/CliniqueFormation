@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GqFV/1gYfq4wRECYaXhLU2oi+VWrHc0wYs0AVl/DprASGTQ1EVXpaY32kLT4qw2ZPKbyCpqi7Ehe8LVhlj6C+A==",
+  "dgSpecHash": "c6ttTmGU9rji463OukhBLAIaAkr/6XJdF6WFoG3NsB9I/LDtFpEUWkkPgv7ACjos2yiiuL4ZoDCVWmcMFeIUlg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gamer\\source\\repos\\WebAPI\\CliniqueFormation\\CliniqueFormation.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.19\\microsoft.entityframeworkcore.design.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.19\\microsoft.entityframeworkcore.relational.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.19\\microsoft.entityframeworkcore.sqlserver.3.1.19.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.19\\microsoft.entityframeworkcore.tools.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.19\\microsoft.extensions.caching.abstractions.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.19\\microsoft.extensions.caching.memory.3.1.19.nupkg.sha512",
     "C:\\Users\\Gamer\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.19\\microsoft.extensions.configuration.3.1.19.nupkg.sha512",

@@ -14,8 +14,8 @@ namespace Domains
         public int PatientId { get; set; }
         public virtual Patient Patient { get; set; }
         
-        [ForeignKey(nameof(Medecin))]
         public int MedecinId { get; set; }
+        [ForeignKey(nameof(MedecinId))]
         public virtual Medecin Medecin { get; set; }
 
         public virtual ICollection<Hospitaliser> Hospitalisers { get; set; }

@@ -7,13 +7,13 @@ namespace Domains
 {
     public class SecretairePatient : BaseDb
     {
-        [ForeignKey(nameof(SecretaireInfirmiere))]
         public int SecretaireInfirmerieId { get; set; }
+        [ForeignKey(nameof(SecretaireInfirmerieId))]
         public SecretaireInfirmiere SecretaireInfirmerie { get; set; }
 
 
-        [ForeignKey(nameof(SecretaireInfirmiere))]
         public int PatientId { get; set; }
+        [ForeignKey(nameof(PatientId))]
         public Patient Patient { get; set; }
     }
 }

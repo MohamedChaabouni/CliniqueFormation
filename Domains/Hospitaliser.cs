@@ -11,12 +11,13 @@ namespace Domains
         public DateTime HeureArrivee { get; set; }
         public DateTime HeureDepart { get; set; }
         
-        [ForeignKey(nameof(Medecin))]
         public int MedecinId { get; set; }
+        [ForeignKey(nameof(MedecinId))]
         public virtual Medecin Medecin { get; set; }
 
-        [ForeignKey(nameof(Hospitalisation))]
         public int HospitalisationId { get; set; }
+
+        [ForeignKey(nameof(HospitalisationId))]
         public virtual Hospitalisation Hospitalisation { get; set; }
     }
 }
