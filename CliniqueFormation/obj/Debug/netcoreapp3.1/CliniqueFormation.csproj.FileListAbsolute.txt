@@ -63,3 +63,8 @@ C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\Dat
 C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\Domains.pdb
 C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\obj\Debug\netcoreapp3.1\CliniqueFormation.csproj.CopyComplete
 C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Gamer\source\repos\WebAPI\CliniqueFormation\bin\Debug\netcoreapp3.1\Services.pdb

@@ -27,7 +27,7 @@ namespace Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
+            // Fluent API
             #region Dossier
             modelBuilder.Entity<Dossier>()
                 .HasMany(a => a.RendezVous)
@@ -83,12 +83,13 @@ namespace Data
                 .HasForeignKey(x => x.HospitalisationId);
             #endregion
 
+            #region Medecin
             modelBuilder.Entity<Medecin>()
                 .HasMany(x => x.Hospitalisers)
                 .WithOne(x => x.Medecin)
                 .HasForeignKey(x => x.MedecinId)
                 .OnDelete(DeleteBehavior.NoAction);
-
+            #endregion
         }
     }
 }
